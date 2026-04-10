@@ -1,0 +1,3 @@
+[submodule "third_party/MSD"]
+	path = third_party/MSD
+	url = git@github.com:hbut-edu/MSD.git
